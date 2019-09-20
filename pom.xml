@@ -45,7 +45,7 @@
         <slf4j-api.version>1.7.25</slf4j-api.version>
         <logback-classic.version>1.1.7</logback-classic.version>
         <jansi.version>1.11</jansi.version>
-        <lombok.version>1.16.18</lombok.version>
+        <lombok.version>1.18.10</lombok.version>
 
         <assertj-core.version>3.8.0</assertj-core.version>
         <junit.version>4.12</junit.version>
@@ -141,7 +141,7 @@
 
             <plugin>
                 <artifactId>maven-site-plugin</artifactId>
-                <version>3.6</version>
+                <version>3.8.2</version>
                 <configuration>
                     <outputEncoding>UTF-8</outputEncoding>
                 </configuration>
